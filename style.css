@@ -1,0 +1,56 @@
+.section
+{
+background-image: linear-gradient(to bottom, rgb(34, 2, 2), rgba(0, 255, 183, 0.667));
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+      margin:5px;
+
+  
+}
+.profile-picture img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    object-fit: cover;
+    display: block;
+    
+    
+        margin:5px;
+
+    
+}
+.About{
+    background-color: rgb(155, 206, 216);
+    border-radius: 25px;
+    object-fit: cover;
+      border: 1px solid black;
+      margin:5px;
+
+}
+.skills{
+    background-color: rgb(155, 206, 216) ;
+    border-radius: 25px;
+    object-fit: cover;
+border: 1px solid black;
+    margin:5px;
+
+    
+}
+.pro{
+    background-color:  rgb(155, 206, 216);
+    border-radius: 25px;
+    object-fit: cover;
+    border: 1px solid black;
+        margin:5px;
+
+}
+.cont{
+    background-color:  rgb(155, 206, 216);
+    border-radius: 25px;
+    object-fit: cover;
+    border: 1px solid black;
+    margin:5px;
+}
